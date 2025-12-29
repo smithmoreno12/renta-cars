@@ -10,7 +10,7 @@ const outfit = Outfit({
 });
 
 export const metadata: Metadata = {
-  title: "Drive Plus",
+  title: "Drive Plus | Devmoreno",
   description: "Drive Plus: Renting cars made simple and fast",
 };
 
