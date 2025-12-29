@@ -9,7 +9,7 @@ export const TEXTS = {
   },
 
   menu: {
-    drivePlus: "Drive Plus Space",
+    drivePlus: "Drive Plus",
     listCars: "All Cars",
     dashboard: "Dashboard",
     login: "Sign In",
