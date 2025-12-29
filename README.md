@@ -1,3 +1,6 @@
+![Preview](assets/preview.png)
+
+
 ### 🧱 Tech Stack
 
 Next.js | TypeScript | Tailwind CSS | shadcn/ui | Framer Motion | Clerk | Prisma | Axios | Stripe | Uploadthing
@@ -32,8 +35,7 @@ NEXT_PUBLIC_FRONTEND_STORE_URL=
 
 
 
-Y **debajo de eso** 👇
 
-```md
-![Preview](assets/preview.png)
+
+
 
